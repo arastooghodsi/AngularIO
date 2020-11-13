@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularIO"
+    }
+  },
+  "defaultProject": "AngularIO",
+  "cli": {
+    "analytics": false
+  }
 }
